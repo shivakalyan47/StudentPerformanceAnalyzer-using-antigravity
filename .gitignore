@@ -1,0 +1,16 @@
+# Compiled class files
+bin/
+*.class
+
+# Runtime local files (data persistence & generated reports)
+data/*.dat
+reports/report_*.txt
+
+# OS and IDE specific files
+.DS_Store
+Thumbs.db
+.idea/
+.project
+.classpath
+.settings/
+*.log
